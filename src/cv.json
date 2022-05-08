@@ -15,10 +15,20 @@
     "data": [
       {
         "school": {
-          "name": "Name",
+          "name": "Lambton College",
           "logoUrl": "https://logo.url/image.png",
-          "acronym": "ACRONYM",
-          "location": "Azrgard",
+          "location": "Sarnia, ON",
+          "url": "https://azgard.edu.space"
+        },
+        "degree": "Thor Technology Assistant",
+        "startYear": 2013,
+        "endYear": 2017
+      },
+      {
+        "school": {
+          "name": "Fanshawe College",
+          "logoUrl": "https://logo.url/image.png",
+          "location": "London, ON",
           "url": "https://azgard.edu.space"
         },
         "degree": "Thor Technology Assistant",
