@@ -69,8 +69,19 @@
         },
         "title": "Time Traveller",
         "startYear": 2019,
-        "startMonth": 12,
         "current": true,
+        "description": "Working hard to get a seat in the table"
+      },
+      {
+        "company": {
+          "name": "Advengers",
+          "logoUrl": "https://advengers.image/image.png",
+          "url": "https://www.advengers.end"
+        },
+        "title": "Time Traveller",
+        "startYear": 2018,
+        "current": false,
+        "endYear": 2019,
         "description": "Working hard to get a seat in the table"
       }
     ]
