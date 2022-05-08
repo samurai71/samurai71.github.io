@@ -20,9 +20,9 @@
           "location": "Sarnia, ON",
           "url": "https://azgard.edu.space"
         },
-        "degree": "Thor Technology Assistant",
-        "startYear": 2013,
-        "endYear": 2017
+        "degree": "Web Specialist and IoT",
+        "startYear": 2019,
+        "endYear": 2019
       },
       {
         "school": {
@@ -31,9 +31,31 @@
           "location": "London, ON",
           "url": "https://azgard.edu.space"
         },
-        "degree": "Thor Technology Assistant",
-        "startYear": 2013,
-        "endYear": 2017
+        "degree": "Interactive Media Design,",
+        "startYear": 2015,
+        "endYear": 2018
+      },
+      {
+        "school": {
+          "name": "Fanshawe College",
+          "logoUrl": "https://logo.url/image.png",
+          "location": "London, ON",
+          "url": "https://azgard.edu.space"
+        },
+        "degree": "Graphic Design",
+        "startYear": 2012,
+        "endYear": 2015
+      },
+      {
+        "school": {
+          "name": "Lambton College",
+          "logoUrl": "https://logo.url/image.png",
+          "location": "Sarnia, ON",
+          "url": "https://azgard.edu.space"
+        },
+        "degree": "Information Technology Professional",
+        "startYear": 2002,
+        "endYear": 2003
       }
     ]
   },
